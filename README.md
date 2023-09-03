@@ -1,5 +1,9 @@
 # IOD_project_portfolio
 
-# [Project 1: Exploratory Data Analyasis of Netflix Regional Subsription Trends]
-The objective of this object is to understand the trends and patterns in Netflix subscriber data
-  
+# Netflix Subscription Analysis (2017 Q1 - 2023 Q1) (https://github.com/Aycrio/IOD_project1_EDA)
+
+This project delves into the trends and patterns of Netflix subscription numbers over a span of six years. Through extensive Exploratory Data Analysis (EDA) of quarterly report data, we aim to uncover insights in the following areas:
+
+* Geographic Analysis: Understanding regional subscription dynamics.
+* Time Series Analysis: Tracking subscription trends over time.
+* Regional Growth: Identifying areas with significant subscription additions or losses.
