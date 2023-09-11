@@ -2,8 +2,8 @@
 
 # Netflix Subscription Analysis (2017 Q1 - 2023 Q1) (https://github.com/Aycrio/IOD_project1_EDA)
 
-The data is obtained from Netflix's quarterly financial reports from 2017 Q1 to 2023 Q1
-The data for countries' plan price for 2022 is obtained from Comparitech (https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/)
+The data is obtained from Netflix's quarterly financial reports from 2017 Q1 to 2023 Q1 <br>
+The data for countries' plan prices for 2022 is obtained from Comparitech (https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/) <br>
 The data for the pie chart is obtained from Review.org which surveyed 1000 Americans on their streaming habits conducted on February 2023 on their spending habits in the last 6 months
 
 Used Python, Pandas, and Jupyter Notebook for data transformation and data cleaning.
